@@ -1,0 +1,110 @@
+Theme : Scoreline
+Version : 1.1.1
+Author : Clubpress
+
+
+August 29 2015 - 1.1.1
+===========================================================
+- Fixed problem with Google fonts over https
+- Fixed possible divide by zero error in players shortcode
+- Synchronized template version numbers with core
+
+August 18 2015 - 1.1.0
+===========================================================
+- Updated existing templates for WPCM v1.3.0
+- Updated template file version numbers for template checks
+- Updated CP players widget
+- Added new matches template
+- Added new club head to head display on single club template
+
+
+May 29 2015 - 1.0.14
+===========================================================
+- Fixed broken links for scheduled matches since WP 4.2
+
+
+March 5 2015 - 1.0.13
+===========================================================
+- Fixed gaelic scoring for shortcodes/matches.php
+- Fixed undefined variable error in shortcodes/matches.php
+
+
+February 8 2015 - 1.0.12
+===========================================================
+- Fixed gaelic scoring for single matches
+
+
+February 2 2015 - 1.0.11
+===========================================================
+- Added staff contact details to staff templates
+- Fixed undefined variable bug in results widget template
+
+
+January 20 2015 - 1.0.10
+===========================================================
+- Added gaelic scoring to various templates
+
+
+January 14 2015 - 1.0.9
+===========================================================
+- Fixed broken slider height
+
+
+January 13 2015 - 1.0.8
+===========================================================
+- Updated shortcodes/match.php template
+- Updated shortcodes/standings.php template
+- Updated single-match/comp.php template
+- Updated content-widget-results.php template
+- Updated content-widget-fixtures.php template
+
+
+November 6 2014 - 1.0.7
+===========================================================
+- Fixed missing duplicate date in fixture widget
+
+
+September 16 2014 - 1.0.6
+===========================================================
+- Fixed broken map display in scheduled matches
+
+
+September 12 2014 - 1.0.5
+===========================================================
+- Added styling for new match lineup thumbs
+
+
+September 05 2014 - 1.0.4
+===========================================================
+- Added content-single-club.php template
+- Add club profile title to inc/page-titles.php
+- Added club links to wpclubmanager/shortcodes/standings.php
+- Fixed zero division bug in wpclubmanager/shortcodes/players.php
+- Fixed template titles margin bug
+- Added Google Map controls fix to style.css
+
+
+September 02 2014 - 1.0.3
+===========================================================
+- Fix standing shortcode custom styling in sidebars
+- Fix localisation bug
+
+
+August 22 2014 - 1.0.2
+===========================================================
+- Fix high-res card images
+- Added styles for Score Summary extension
+- Added styles for Player Appearances extension
+
+
+July 11 2014 - 1.0.1
+===========================================================
+- Fix competition column in matches shortcode template
+- Fix redundant updater call
+- Tweak updater functions
+- Update documentation with new license info
+
+
+June 18 2014 - 1.0.0
+===========================================================
+- Theme released

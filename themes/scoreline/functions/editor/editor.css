@@ -1,0 +1,6 @@
+i.mce-ico {
+	font: 400 20px/1 dashicons;
+}
+i.mce-i-cp_players:before {
+	content: '\f180';
+}
